@@ -120,10 +120,10 @@
 
 <P>K2Engineの使用上、2Dでカメラを扱うことができないのでキャラクターを動かす代わりに背景を動かしています。</P>
 
-<video controls src="ScreenChange/StageMove.mp4"></video>
+<video controls src = "ScreenChange/StageMove.mp4"></video>
 
 # 9.  戦闘
 
 <P>戦闘システムはドラゴンクエストで使われているターン制コマンドバトルを採用しています。</P>
 
-<video controls src="Fight.mp4"></video>
+<video controls width="1920" height="300" src="ScreenChange/Fight.mp4"></video>
