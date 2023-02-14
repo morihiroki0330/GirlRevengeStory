@@ -114,6 +114,8 @@
 
 <P>3.場所に応じた背景を描画するクラス（BACKGROUNDクラス）</P>
 
+<P>4.場面切り替えのアニメーション（ANIMATIONクラス）</P>
+
 <video controls src="ScreenChange/ScreenChange.mp4"></video>
 
 <P>場面の切り替えは違和感がないようにアニメーションでゲーム画面が覆われた際にクラスが起動して背景の画像を変更します。</P>
