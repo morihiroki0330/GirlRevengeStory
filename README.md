@@ -1,16 +1,17 @@
 # 　　作成者
-河原電子ビジネス専門学校
-ゲームクリエイター科1年　森浩希
+
+<P>河原電子ビジネス専門学校</P>
+<P>ゲームクリエイター科1年　森浩希</P>
 
 # 1.　作品概要
 
 <P><font size='5'>・Girl Revenge Story</font></P>
 
-2D横画面のターン制コマンドバトルRPGゲームです。
+<P>2D横画面のターン制コマンドバトルRPGゲームです。</P>
 
 <P><font size='5'>・使用エンジン</font></P>
 
-学校内製エンジンを使用。
+<P>学校内製エンジンを使用。</P>
 
 <P><font size='5'>・使用ツール</font></P>
 
@@ -20,15 +21,15 @@
 
 <P><font size='5'>・開発環境</font></P>
 
-Windows11
+<P>Windows11</P>
 
 <P><font size='5'>・制作人数</font></P>
 
-一人
+<P>一人</P>
 
 <P><font size='5'>・開発期間</font></P>
 
-2022年9月～2023年2月　（約三か月間）
+<P>2022年9月～2023年2月　（約三か月間）
 
 
 # 2.　操作説明
@@ -65,52 +66,57 @@ Windows11
 
 <P>これにより、ゲーム内でストーリーを説明せずとも、ユーザーが推測できる仕組みにしました。</P>
 
-偽のタイトル
+<P>偽のタイトル</P>
+
 ![](../GirlRevengeStory/Title/GirlHeroStory.jpeg)
 
-本来のタイトル
+<P>本来のタイトル</P>
+
 ![](../GirlRevengeStory/Title/GirlRevengeStory.jpeg)
 
 <video controls src="Title/Title.mp4"></video>
 
 # 4.  イラスト
 
-ゲーム内の素材はドットを打つ(Aseprite)を使って自作しました。
+<P>ゲーム内の素材はドットを打つ(Aseprite)を使って自作しました。</P>
 
 ![](../GirlRevengeStory/Material.png)
 
 
 # 5.  キャラクターのアニメーション
 　
-キャラクターのアニメーションは複数の画像を変数の値で管理して、切り替えながら表示しています。
+<P>キャラクターのアニメーションは複数の画像を変数の値で管理して、切り替えながら表示しています。
 
 
-戦闘モーション
+<P>戦闘モーション</P>
+
 ![](../GirlRevengeStory/Any-Animations/Any-Fight.gif)
 
-立ちモーション
+<P>立ちモーション</P>
+
 ![](../GirlRevengeStory/Any-Animations/Any-Stand.gif)
 
-歩行モーション
+<P>歩行モーション</P>
+
 ![](../GirlRevengeStory/Any-Animations/Any-Walk.gif)
 
 # 6.  場面切り替え
 
-ゲームの場面切り替えは下記のクラスを使用して実装しています。
+<P>ゲームの場面切り替えは下記のクラスを使用して実装しています。</P>
 
-1.場面切り替えのアニメーションを再生するクラス（SCREENCHANGEクラス）
+<P>1.場面切り替えのアニメーションを再生するクラス（SCREENCHANGEクラス）</P>
 
-2.キャラクターが居る場所を管理したクラス（ANY_MOVEクラス）
+<P>2.キャラクターが居る場所を管理したクラス（ANY_MOVEクラス）</P>
 
 <P>3.場所に応じた背景を描画するクラス（BACKGROUNDクラス）</P>
 
 <video controls src="ScreenChange/ScreenChange.mp4"></video>
 
-場面の切り替えは違和感がないようにアニメーションでゲーム画面が覆われた際に2番と3番のクラスが起動して背景の画像を変更します。
+<P>場面の切り替えは違和感がないようにアニメーションでゲーム画面が覆われた際に2番と3番のクラスが起動して背景の画像を変更します。</P>
 
 # 7.  ステージ
 
-K2Engineの使用上、2Dでカメラを扱うことができないのでキャラクターを動かす代わりに背景を動かしています。
+<P>K2Engineの使用上、2Dでカメラを扱うことができないのでキャラクターを動かす代わりに背景を動かしています。</P>
 
 <video controls src="ScreenChange/StageMove.mp4"></video>
 
