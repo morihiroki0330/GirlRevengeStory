@@ -16,7 +16,9 @@
 <P><font size='5'>・使用ツール</font></P>
 
 <P>・visual Studio 2022</P>
+
 <P>・Adobe Photoshop 2022</P>
+
 <P>・Aseprite</P>
 
 <P><font size='5'>・開発環境</font></P>
