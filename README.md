@@ -31,7 +31,23 @@
 <P>2022年9月～2023年2月　（約三か月間）
 
 
-# 2.　操作説明
+# 2.　タイトル
+
+<P>タイトル画面は、偽のタイトルの(GirlHeroStory)と本物のタイトルである（GirlRevengeStory）を使って、タイトル画面でAボタンを押すことにより、本来のタイトル画面を描画するようにしました。</P>
+
+<P>これにより、ゲーム内でストーリーを説明せずとも、ユーザーが推測できる仕組みにしました。</P>
+
+<P>偽のタイトル</P>
+
+![](../GirlRevengeStory/Title/GirlHeroStory.jpeg)
+
+<P>本来のタイトル</P>
+
+![](../GirlRevengeStory/Title/GirlRevengeStory.jpeg)
+
+<video controls src="Title/Title.mp4"></video>
+
+# 3.　画面説明
 
 <P><font size='5'>・ステージ</font></P>
 
@@ -49,6 +65,8 @@
 
 <P>・Ｂボタン　　　　　:　キャンセル</P>
 
+# 4.  操作方法
+　
 <P><font size='5'>・画面説明</font></P>
 
 <P>・①　:　キャラクターのステータス</P>
@@ -59,30 +77,14 @@
 
 ![](../GirlRevengeStory/Manual.jpg)
 
-# 3.  タイトル
-　
-<P>タイトル画面は、偽のタイトルの(GirlHeroStory)と本物のタイトルである（GirlRevengeStory）を使って、タイトル画面でAボタンを押すことにより、本来のタイトル画面を描画するようにしました。</P>
-
-<P>これにより、ゲーム内でストーリーを説明せずとも、ユーザーが推測できる仕組みにしました。</P>
-
-<P>偽のタイトル</P>
-
-![](../GirlRevengeStory/Title/GirlHeroStory.jpeg)
-
-<P>本来のタイトル</P>
-
-![](../GirlRevengeStory/Title/GirlRevengeStory.jpeg)
-
-<video controls src="Title/Title.mp4"></video>
-
-# 4.  イラスト
+# 5.  イラスト
 
 <P>ゲーム内の素材はドットを打つ(Aseprite)を使って自作しました。</P>
 
 ![](../GirlRevengeStory/Material.png)
 
 
-# 5.  キャラクターのアニメーション
+# 6.  キャラクターのアニメーション
 　
 <P>キャラクターのアニメーションは複数の画像を変数の値で管理して、切り替えながら表示しています。
 
@@ -99,7 +101,7 @@
 
 ![](../GirlRevengeStory/Any-Animations/Any-Walk.gif)
 
-# 6.  場面切り替え
+# 7.  場面切り替え
 
 <P>ゲームの場面切り替えは下記のクラスを使用して実装しています。</P>
 
@@ -113,13 +115,13 @@
 
 <P>場面の切り替えは違和感がないようにアニメーションでゲーム画面が覆われた際に2番と3番のクラスが起動して背景の画像を変更します。</P>
 
-# 7.  ステージ
+# 8.  ステージ
 
 <P>K2Engineの使用上、2Dでカメラを扱うことができないのでキャラクターを動かす代わりに背景を動かしています。</P>
 
 <video controls src="ScreenChange/StageMove.mp4"></video>
 
-# 8.  戦闘
+# 9.  戦闘
 
 <P>戦闘システムはドラゴンクエストで使われているターン制コマンドバトルを採用しています。</P>
 
