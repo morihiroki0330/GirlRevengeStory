@@ -5,7 +5,7 @@
 
 # 1.　作品概要
 
-<font size='5'>・Girl Revenge Story</font>
+<P><font size='5'>・Girl Revenge Story</font></P>
 
 <P>2D横画面のターン制コマンドバトルRPGゲームです。</P>
 
@@ -126,4 +126,4 @@
 
 <P>戦闘システムはドラゴンクエストで使われているターン制コマンドバトルを採用しています。</P>
 
-<video controls width="1920" height="300" src="ScreenChange/Fight.mp4"></video>
+<video controls src="ScreenChange/Fight.mp4"></video>
