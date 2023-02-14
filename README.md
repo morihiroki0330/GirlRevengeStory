@@ -5,7 +5,7 @@
 
 # 1.　作品概要
 
-<P><font size='5'>・Girl Revenge Story</font></P>
+<font size='5'>・Girl Revenge Story</font>
 
 <P>2D横画面のターン制コマンドバトルRPGゲームです。</P>
 
@@ -50,7 +50,7 @@
 
 # 3.　画面説明
 
-<font size='5'>・ステージ</font>
+<P><font size='5'>・ステージ</font></P>
 
 <P>・十字キー（左右）　:　キャラ移動</P>
 
