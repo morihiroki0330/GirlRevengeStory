@@ -69,7 +69,7 @@ Windows11
 ![](../GirlRevengeStory/Title/GirlHeroStory.jpeg)
 
 本来のタイトル
-![](../Title/GirlRevengeStory.jpeg)
+![](../GirlRevengeStory/Title/GirlRevengeStory.jpeg)
 
 <video controls src="Title/Title.mp4"></video>
 
