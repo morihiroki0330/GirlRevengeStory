@@ -50,7 +50,7 @@
 
 <video controls src="Title/Title.mp4"></video>
 
-# 3.　画面説明
+# 3.　操作方法
 
 <P><font size='5'>・ステージ</font></P>
 
@@ -68,7 +68,7 @@
 
 <P>・Ｂボタン　　　　　:　キャンセル</P>
 
-# 4.  操作方法
+# 4.  画面説明
 　
 <P><font size='5'>・画面説明</font></P>
 
@@ -126,6 +126,6 @@
 
 # 9.  戦闘
 
-<P>戦闘システムはドラゴンクエストで使われているターン制コマンドバトルを採用しています。</P>
+<P>戦闘システムはターン制コマンドバトルを採用しています。</P>
 
 <video controls src="ScreenChange/Fight.mp4"></video>
