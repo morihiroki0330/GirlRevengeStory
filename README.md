@@ -126,4 +126,4 @@
 
 <P>戦闘システムはドラゴンクエストで使われているターン制コマンドバトルを採用しています。</P>
 
-<video controls src="ScreenChange/Fight.mp4"></video>
+<video controls src="Fight.mp4"></video>
