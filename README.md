@@ -40,11 +40,11 @@
 
 <P>偽のタイトル</P>
 
-![](../GirlRevengeStory/Title/GirlHeroStory.jpeg)
+![](Title/GirlHeroStory.jpeg)
 
 <P>本来のタイトル</P>
 
-![](../GirlRevengeStory/Title/GirlRevengeStory.jpeg)
+![](Title/GirlRevengeStory.jpeg)
 
 <video controls src="Title/Title.mp4"></video>
 
@@ -76,13 +76,13 @@
 
 <P>・③　:　マップ移動の扉</P>
 
-![](../GirlRevengeStory/Manual.jpg)
+![](Manual.jpg)
 
 # 5.  イラスト
 
 <P>ゲーム内の素材はドットを打つ(Aseprite)を使って自作しました。</P>
 
-![](../GirlRevengeStory/Material.png)
+![](Material.png)
 
 
 # 6.  キャラクターのアニメーション
@@ -92,15 +92,15 @@
 
 <P>戦闘モーション</P>
 
-![](../GirlRevengeStory/Any-Animations/Any-Fight.gif)
+![](Any-Animations/Any-Fight.gif)
 
 <P>立ちモーション</P>
 
-![](../GirlRevengeStory/Any-Animations/Any-Stand.gif)
+![](Any-Animations/Any-Stand.gif)
 
 <P>歩行モーション</P>
 
-![](../GirlRevengeStory/Any-Animations/Any-Walk.gif)
+![](Any-Animations/Any-Walk.gif)
 
 # 7.  場面切り替え
 
