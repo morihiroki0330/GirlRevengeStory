@@ -5,15 +5,15 @@
 
 # 1.　作品概要
 
-<P><font size='5'>・Girl Revenge Story</font></P>
+<P><big>・Girl Revenge Story</big></P>
 
 <P>2D横画面のターン制コマンドバトルRPGゲームです。</P>
 
-<P><font size='5'>・使用エンジン</font></P>
+<P><big>・使用エンジン</big></P>
 
 <P>学校内製エンジンを使用。</P>
 
-<P><font size='5'>・使用ツール</font></P>
+<P><big>・使用ツール</big></P>
 
 <P>・visual Studio 2022</P>
 
@@ -21,15 +21,15 @@
 
 <P>・Aseprite</P>
 
-<P><font size='5'>・開発環境</font></P>
+<P><big>・開発環境</big></P>
 
 <P>Windows11</P>
 
-<P><font size='5'>・制作人数</font></P>
+<P><big>・制作人数</big></P>
 
 <P>一人</P>
 
-<P><font size='5'>・開発期間</font></P>
+<P><big>・開発期間</big></P>
 
 <P>2022年9月～2023年2月　（約三か月間）
 
@@ -52,7 +52,7 @@
 
 # 3.　操作方法
 
-<P><font size='5'>・ステージ</font></P>
+<P><big>・ステージ</big></P>
 
 <P>・十字キー（左右）　:　キャラ移動</P>
 
@@ -60,7 +60,7 @@
 
 <P>・Ｂボタン　　　　　:　ジャンプ</P>
 
-<P><font size='5'>・戦闘</font></P>
+<P><big>・戦闘</big></P>
 
 <P>・十字キー（左右）　:　カーソル移動</P>
 
@@ -70,7 +70,7 @@
 
 # 4.  画面説明
 　
-<P><font size='5'>・画面説明</font></P>
+<P><big>・画面説明</big></P>
 
 <P>・①　:　キャラクターのステータス</P>
 
